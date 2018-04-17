@@ -18,7 +18,7 @@ $app->get(
 );
 
 $app->get(
-    '/times',
+    '/time',
     function () {
         
         require_once("view/time.php");
@@ -27,13 +27,32 @@ $app->get(
 );
 
 $app->get(
-    '/servicos',
+    '/servico',
     function () {
         
         require_once("view/servicos.php");
         
     }
 );
+
+$app->get(
+    '/preco',
+    function () {
+        
+        require_once("view/preco.php");
+        
+    }
+);
+
+$app->get(
+    '/contato',
+    function () {
+        
+        require_once("view/servicos.php");
+        
+    }
+);
+
 
 $app->run();
 

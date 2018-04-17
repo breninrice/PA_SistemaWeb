@@ -19,7 +19,7 @@
 
   <div class="w3-display-left w3-text-white">
     <span class="w3-jumbo w3-hide-small deposito">Deposito Construmar</span><br>
-    <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">Comece com o que é importante</span><br>
     <span class="w3-large">Ajudando você a contruir os seus sonhos.</span>
     <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">leia mais sobre nós</a></p>
   </div> 
@@ -48,11 +48,11 @@
       <a href="contato" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTATO</a>
     </div>
 
-    <!-- Hide right-floated links on small screens and replace them with a menu icon / -->
-    <!-- Ocultar links flutuantes à direita em telas pequenas e substituí-los por um ícone de menu /
+    <!-- Hide right-floated links on small screens and replace them with a menu icon / 
+     Ocultar links flutuantes à direita em telas pequenas e substituí-los por um ícone de menu /-->
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
       <i class="fa fa-bars"></i>
-    </a>-->
+    </a>
     
 
   </div>
