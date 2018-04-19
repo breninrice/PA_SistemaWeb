@@ -17,3 +17,9 @@ body, html {
     font-size: 64px;
     text-shadow: 2px 2px black;
 }
+.produtos{
+ background-color: black;
+ background-position: center;
+ background-size: cover;
+ min-height: 100%;
+}

@@ -36,24 +36,18 @@
   <!-- Navbar (sit on top) Menu Cabeçalho inicio-->
 <div class="w3-top">
   
-  <div class="w3-bar w3-white w3-card" id="">
+  <div class="w3-bar w3-white w3-card" id="home">
     
     <a href="index.php" class="w3-bar-item w3-button w3-wide">INICIO</a>
     <!-- Right-sided navbar links / Links da barra de navegação do lado direito -->
     <div class="w3-right">
       <a href="index.php" class="w3-bar-item w3-button">SOBRE</a>
       <a href="time" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TIME</a>
+      <a href="produtos" class="w3-bar-item w3-button"><i class="fa fa-"></i> PRODUTOS</a>
+      <a href="vendas" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> VENDAS</a>
       <a href="servicos" class="w3-bar-item w3-button"><i class="fa fa-th"></i> SERVIÇOS</a>
-      <a href="preco" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> PREÇOS</a>
       <a href="contato" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTATO</a>
     </div>
-
-    <!-- Hide right-floated links on small screens and replace them with a menu icon / 
-     Ocultar links flutuantes à direita em telas pequenas e substituí-los por um ícone de menu /-->
-  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
-      <i class="fa fa-bars"></i>
-    </a>
-    
 
   </div>
   
